@@ -1,0 +1,18 @@
+{
+  "name": "@kellymuterian/project-beta",
+  "version": "1.0.0",
+  "description": "Second project using shared utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@kellymuterian/utils-shared": "npm:@Kellymuterian/utils-shared@^1.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
