@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@kellymuterian/utils-shared": "npm:@Kellymuterian/utils-shared@^1.0.0"
+    "@kellymuterian/utils-shared": "^1.0.1"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
